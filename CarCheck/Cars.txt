@@ -1,0 +1,7 @@
+Challenger 3 4 5
+Camry 1 4
+Civic 0
+Siena 2 5
+Corvette 0
+Mustang 3 5
+Fusion 1 2 5

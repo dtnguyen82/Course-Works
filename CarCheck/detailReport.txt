@@ -1,0 +1,6 @@
+0 Car Fixed
+1 Break
+2 Wind Shield
+3 Tires
+4 Engine
+5 Doors
